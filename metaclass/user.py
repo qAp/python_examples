@@ -2,6 +2,12 @@
 
 from library import Base
 
-class Derivied(Base):
-    def bar(self):
-        return 'bar'
+class Derived(Base):
+    pass
+#    def bar(self):
+#        return 'bar'
+
+
+
+class Derived1:
+    pass
